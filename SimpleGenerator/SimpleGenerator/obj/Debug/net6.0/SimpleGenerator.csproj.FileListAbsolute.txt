@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\bin\Debug\net6.0\SimpleGenerator.deps.json
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\bin\Debug\net6.0\SimpleGenerator.dll
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\bin\Debug\net6.0\SimpleGenerator.pdb
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\obj\Debug\net6.0\SimpleGenerator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\obj\Debug\net6.0\SimpleGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\obj\Debug\net6.0\SimpleGenerator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\obj\Debug\net6.0\SimpleGenerator.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\obj\Debug\net6.0\SimpleGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\obj\Debug\net6.0\SimpleGenerator.dll
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\obj\Debug\net6.0\refint\SimpleGenerator.dll
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\obj\Debug\net6.0\SimpleGenerator.pdb
+C:\Users\User\source\repos\SimpleGenerator\SimpleGenerator\obj\Debug\net6.0\ref\SimpleGenerator.dll
