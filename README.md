@@ -2,16 +2,17 @@
 A very simple generator of letters, numbers, symbols, and everything together!
 
 ## Documentation
-GenerateString(["Format"], [Lenght])
 -----------------
-### Formats:
+Function - GenerateString(["Format"], [Lenght])
+
+Formats:
 "1" - nums
 "a" - letters lower case
 "A" - letters upper case
 "~" - symbols
 "[Custom]" - you chars! 
 
-### Example
+Example
 example: GenerateString("1", 10)
 output : 4698309237
 
