@@ -4,7 +4,7 @@ A very simple generator of letters, numbers, symbols, and everything together!
 ## Documentation
 -----------------
 ## Function 
-####GenerateString(["Format"], [Lenght])
+#### GenerateString(["Format"], [Lenght])
 
 ### Formats:
 1. "1" - nums
