@@ -32,4 +32,8 @@ A very simple generator of letters, numbers, symbols, and everything together!
 ----------------
 1. **example: GenerateString("lomasterAee", 10)**
 2. **output : lstAAetsmr**
+----------------
+1. **example: GenerateString("~aA1", 10)**
+2. **output : $*59fsS)3f**
+
 
