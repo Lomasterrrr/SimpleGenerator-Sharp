@@ -24,11 +24,14 @@ A very simple generator of letters, numbers, symbols, and everything together!
 1. **example: GenerateString("1", 10)**
 2. **output : 4698309237**
 ----------------
-4. **example: GenerateString("a", 10)**
-5. **output : fktgvaorix**
+1. **example: GenerateString("a", 10)**
+2. **output : fktgvaorix**
 ----------------
-7. **example: GenerateString("A", 10)**
-8. **output : IOFCLZKDHT**
+1. **example: GenerateString("A", 10)**
+2. **output : IOFCLZKDHT**
+----------------
+1. **example: GenerateString("~", 10)**
+2. **output : ($@#$%((#=**
 ----------------
 1. **example: GenerateString("~aA1", 10)**
 2. **output : $&59fsS)3f**
