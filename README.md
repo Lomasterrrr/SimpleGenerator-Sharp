@@ -1,6 +1,8 @@
 # SimpleGenerator С#
 A very simple generator of letters, numbers, symbols, and everything together!
 
+![alt text](https://i.imgur.com/5k0ET5h.png)
+
 ### Function:
 ----------------
 
