@@ -21,21 +21,21 @@ A very simple generator of letters, numbers, symbols, and everything together!
 
 ### Example:
 ----------------
-1. **example: GenerateString("1", 10)**
+1. **example: Console.WriteLine(GenerateString("1", 10))**
 2. **output : 4698309237**
 ----------------
-1. **example: GenerateString("a", 10)**
+1. **example: Console.WriteLine(GenerateString("a", 10))**
 2. **output : fktgvaorix**
 ----------------
-1. **example: GenerateString("A", 10)**
+1. **example: Console.WriteLine(GenerateString("A", 10))**
 2. **output : IOFCLZKDHT**
 ----------------
-1. **example: GenerateString("~", 10)**
+1. **example: Console.WriteLine(GenerateString("~", 10))**
 2. **output : ($@#$%((#=**
 ----------------
-1. **example: GenerateString("~aA1", 10)**
+1. **example: Console.WriteLine(GenerateString("~aA1", 10))**
 2. **output : $&59fsS)3f**
 ----------------
-1. **example: GenerateString("lomasterAee", 10)**
+1. **example: Console.WriteLine(GenerateString("lomasterAee", 10))**
 2. **output : lstAAetsmr**
 
